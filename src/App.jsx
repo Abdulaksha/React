@@ -48,9 +48,10 @@ return(
  {/* <Abuprop names={["rahma","rahim","ayas"] } age={[20,30,40]}/> */}
  {/* <Form/> */}
 {/* <BirthDay/> */}
-{/* <Subname/> */}
+<Subname/>
 
 {/* <Abdul/> */}
+
 
 {/* <Reduce/> */}
 
