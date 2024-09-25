@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(203, 146, 146);
+}
+.abd{
+    border-radius: 50px;
+   height: 100px;
+   width: 100px;
+   
+}
+
+
+.ab{
+
+    margin-bottom: 30px;
+    display: flex;
+    margin-left: 30px;
+}
+
+.as{
+   margin: 30px;
+    margin-left: 5px;
+}
+h1{
+    margin-left: 30px;
+    display: inline-block;
+    margin-top: 20px;
+    
+}
+
+.ac{ 
+    margin-top: 50px;
+    margin: 100px;
+    margin-left: 30%;
+    background-color: white;
+    width: 30%;
+}
+
+button{
+    color: antiquewhite;
+    background-color: mediumvioletred;
+    width: 75%;
+    height: 40%;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    border-radius: 3px;
+    border: none;
+}
+.ad{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+

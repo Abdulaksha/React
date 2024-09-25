@@ -1,0 +1,1 @@
+let a={name:"abu",age:20}
